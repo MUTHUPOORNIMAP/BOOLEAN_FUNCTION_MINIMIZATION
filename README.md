@@ -1,4 +1,6 @@
 # BOOLEAN_FUNCTION_MINIMIZATION
+# Name: Muthu Poornima P
+# Register no: 212224240099
 
 **AIM:**
 
@@ -17,6 +19,9 @@ Hardware – PCs, Cyclone II , USB flasher
 **Theory**
 
 **Logic Diagram**
+![image](https://github.com/user-attachments/assets/d495bf1b-9ae0-40e8-84fc-2492a48fcfac)
+![image](https://github.com/user-attachments/assets/cdc0850e-60cd-4992-933e-906f75901931)
+
 
 **Procedure**
 
@@ -34,17 +39,18 @@ Hardware – PCs, Cyclone II , USB flasher
 **Program:**
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+![image](https://github.com/user-attachments/assets/102f0e1e-53a9-4ab0-9855-6d278f175e6e)
 
-Developed by: RegisterNumber:*/
 
 
 **RTL realization**
 
-**Output:**
+![image](https://github.com/user-attachments/assets/6dcf9f06-6655-4df3-b465-adae945c94f0)
+
 
 **RTL**
+![image](https://github.com/user-attachments/assets/df83ffc2-ee5d-49f7-afbf-01ffc1e12a90)
 
-**Timing Diagram**
 
 **Result:**
 
